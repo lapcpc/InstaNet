@@ -1,5 +1,6 @@
 C:\Users\Alex\Documents\Nueva carpeta\NET2\TodoApi\bin\Debug\net7.0\appsettings.Development.json
 C:\Users\Alex\Documents\Nueva carpeta\NET2\TodoApi\bin\Debug\net7.0\appsettings.json
+C:\Users\Alex\Documents\Nueva carpeta\NET2\TodoApi\bin\Debug\net7.0\TodoApi.staticwebassets.runtime.json
 C:\Users\Alex\Documents\Nueva carpeta\NET2\TodoApi\bin\Debug\net7.0\TodoApi.exe
 C:\Users\Alex\Documents\Nueva carpeta\NET2\TodoApi\bin\Debug\net7.0\TodoApi.deps.json
 C:\Users\Alex\Documents\Nueva carpeta\NET2\TodoApi\bin\Debug\net7.0\TodoApi.runtimeconfig.json
@@ -10,6 +11,9 @@ C:\Users\Alex\Documents\Nueva carpeta\NET2\TodoApi\bin\Debug\net7.0\Azure.Identi
 C:\Users\Alex\Documents\Nueva carpeta\NET2\TodoApi\bin\Debug\net7.0\Humanizer.dll
 C:\Users\Alex\Documents\Nueva carpeta\NET2\TodoApi\bin\Debug\net7.0\MessagePack.dll
 C:\Users\Alex\Documents\Nueva carpeta\NET2\TodoApi\bin\Debug\net7.0\MessagePack.Annotations.dll
+C:\Users\Alex\Documents\Nueva carpeta\NET2\TodoApi\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Alex\Documents\Nueva carpeta\NET2\TodoApi\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Alex\Documents\Nueva carpeta\NET2\TodoApi\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
 C:\Users\Alex\Documents\Nueva carpeta\NET2\TodoApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
 C:\Users\Alex\Documents\Nueva carpeta\NET2\TodoApi\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
 C:\Users\Alex\Documents\Nueva carpeta\NET2\TodoApi\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
@@ -61,6 +65,7 @@ C:\Users\Alex\Documents\Nueva carpeta\NET2\TodoApi\bin\Debug\net7.0\Microsoft.Vi
 C:\Users\Alex\Documents\Nueva carpeta\NET2\TodoApi\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
 C:\Users\Alex\Documents\Nueva carpeta\NET2\TodoApi\bin\Debug\net7.0\Mono.TextTemplating.dll
 C:\Users\Alex\Documents\Nueva carpeta\NET2\TodoApi\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Alex\Documents\Nueva carpeta\NET2\TodoApi\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
 C:\Users\Alex\Documents\Nueva carpeta\NET2\TodoApi\bin\Debug\net7.0\NuGet.Common.dll
 C:\Users\Alex\Documents\Nueva carpeta\NET2\TodoApi\bin\Debug\net7.0\NuGet.Configuration.dll
 C:\Users\Alex\Documents\Nueva carpeta\NET2\TodoApi\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
@@ -277,8 +282,3 @@ C:\Users\Alex\Documents\Nueva carpeta\NET2\TodoApi\obj\Debug\net7.0\refint\TodoA
 C:\Users\Alex\Documents\Nueva carpeta\NET2\TodoApi\obj\Debug\net7.0\TodoApi.pdb
 C:\Users\Alex\Documents\Nueva carpeta\NET2\TodoApi\obj\Debug\net7.0\TodoApi.genruntimeconfig.cache
 C:\Users\Alex\Documents\Nueva carpeta\NET2\TodoApi\obj\Debug\net7.0\ref\TodoApi.dll
-C:\Users\Alex\Documents\Nueva carpeta\NET2\TodoApi\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
-C:\Users\Alex\Documents\Nueva carpeta\NET2\TodoApi\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
-C:\Users\Alex\Documents\Nueva carpeta\NET2\TodoApi\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
-C:\Users\Alex\Documents\Nueva carpeta\NET2\TodoApi\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
-C:\Users\Alex\Documents\Nueva carpeta\NET2\TodoApi\bin\Debug\net7.0\TodoApi.staticwebassets.runtime.json
