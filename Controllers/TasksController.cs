@@ -117,8 +117,9 @@ namespace TodoApi.Controllers
             if (tareaDTO.FormFile != null)
             {
                 var file = tareaDTO.FormFile;
-                var folderName = Path.Combine("Resources", "Images");
+                var folderName = Path.Combine("wwwroot","Resources", "Images");
                 var pathToSave = Path.Combine(Directory.GetCurrentDirectory(), folderName);
+
 
                 var fileName = ContentDispositionHeaderValue.Parse(file.ContentDisposition).FileName.Trim('"');
                 

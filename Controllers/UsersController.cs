@@ -75,7 +75,7 @@ namespace TodoApi.Controllers
             
                 
                 var file = profile.FormFile;
-                var folderName = Path.Combine("Resources", "Images");
+                var folderName = Path.Combine("wwwroot","Resources", "Images");
                 var pathToSave = Path.Combine(Directory.GetCurrentDirectory(), folderName);
 
                 var fileName = ContentDispositionHeaderValue.Parse(file.ContentDisposition).FileName.Trim('"');
