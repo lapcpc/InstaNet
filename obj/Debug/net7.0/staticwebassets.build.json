@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "mGx14m4/rSKrEVwYnbVVb4Al/e5hazI1aRLqufeMUxw=",
+  "Hash": "f7WEPN9IwMN8o6NkgyP+vWNCYrLJF6Gasn+Qmfg4nX4=",
   "Source": "TodoApi",
   "BasePath": "_content/TodoApi",
   "Mode": "Default",
@@ -221,12 +221,12 @@
       "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
-      "Identity": "C:\\Users\\Alex\\Documents\\Nueva carpeta\\NET2\\TodoApi\\wwwroot\\main.22ef007d985c92e3.js",
+      "Identity": "C:\\Users\\Alex\\Documents\\Nueva carpeta\\NET2\\TodoApi\\wwwroot\\main.ce5e4203821d0a80.js",
       "SourceId": "TodoApi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Alex\\Documents\\Nueva carpeta\\NET2\\TodoApi\\wwwroot\\",
       "BasePath": "_content/TodoApi",
-      "RelativePath": "main.22ef007d985c92e3.js",
+      "RelativePath": "main.ce5e4203821d0a80.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -235,7 +235,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\main.22ef007d985c92e3.js"
+      "OriginalItemSpec": "wwwroot\\main.ce5e4203821d0a80.js"
     },
     {
       "Identity": "C:\\Users\\Alex\\Documents\\Nueva carpeta\\NET2\\TodoApi\\wwwroot\\polyfills.133d528a468bcb8a.js",
