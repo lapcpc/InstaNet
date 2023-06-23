@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\3rdpartylicenses.txt"
     },
     {
+      "Id": "C:\\Users\\Alex\\Documents\\Nueva carpeta\\NET2\\TodoApi\\wwwroot\\Resources\\data.txt",
+      "PackagePath": "staticwebassets\\Resources\\data.txt"
+    },
+    {
       "Id": "C:\\Users\\Alex\\Documents\\Nueva carpeta\\NET2\\TodoApi\\wwwroot\\assets\\1.png",
       "PackagePath": "staticwebassets\\assets\\1.png"
     },
@@ -49,8 +53,8 @@
       "PackagePath": "staticwebassets\\index.html"
     },
     {
-      "Id": "C:\\Users\\Alex\\Documents\\Nueva carpeta\\NET2\\TodoApi\\wwwroot\\main.ce5e4203821d0a80.js",
-      "PackagePath": "staticwebassets\\main.ce5e4203821d0a80.js"
+      "Id": "C:\\Users\\Alex\\Documents\\Nueva carpeta\\NET2\\TodoApi\\wwwroot\\main.383079ddcd1a72a4.js",
+      "PackagePath": "staticwebassets\\main.383079ddcd1a72a4.js"
     },
     {
       "Id": "C:\\Users\\Alex\\Documents\\Nueva carpeta\\NET2\\TodoApi\\wwwroot\\polyfills.133d528a468bcb8a.js",

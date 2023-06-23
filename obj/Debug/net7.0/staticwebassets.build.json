@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "f7WEPN9IwMN8o6NkgyP+vWNCYrLJF6Gasn+Qmfg4nX4=",
+  "Hash": "I4NQFRXeKaLjXcv6fd3mtzcmMkclzLg253Rqjz5rguU=",
   "Source": "TodoApi",
   "BasePath": "_content/TodoApi",
   "Mode": "Default",
@@ -221,12 +221,12 @@
       "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
-      "Identity": "C:\\Users\\Alex\\Documents\\Nueva carpeta\\NET2\\TodoApi\\wwwroot\\main.ce5e4203821d0a80.js",
+      "Identity": "C:\\Users\\Alex\\Documents\\Nueva carpeta\\NET2\\TodoApi\\wwwroot\\main.383079ddcd1a72a4.js",
       "SourceId": "TodoApi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Alex\\Documents\\Nueva carpeta\\NET2\\TodoApi\\wwwroot\\",
       "BasePath": "_content/TodoApi",
-      "RelativePath": "main.ce5e4203821d0a80.js",
+      "RelativePath": "main.383079ddcd1a72a4.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -235,7 +235,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\main.ce5e4203821d0a80.js"
+      "OriginalItemSpec": "wwwroot\\main.383079ddcd1a72a4.js"
     },
     {
       "Identity": "C:\\Users\\Alex\\Documents\\Nueva carpeta\\NET2\\TodoApi\\wwwroot\\polyfills.133d528a468bcb8a.js",
@@ -253,6 +253,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\polyfills.133d528a468bcb8a.js"
+    },
+    {
+      "Identity": "C:\\Users\\Alex\\Documents\\Nueva carpeta\\NET2\\TodoApi\\wwwroot\\Resources\\data.txt",
+      "SourceId": "TodoApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Alex\\Documents\\Nueva carpeta\\NET2\\TodoApi\\wwwroot\\",
+      "BasePath": "_content/TodoApi",
+      "RelativePath": "Resources/data.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Resources\\data.txt"
     },
     {
       "Identity": "C:\\Users\\Alex\\Documents\\Nueva carpeta\\NET2\\TodoApi\\wwwroot\\runtime.023cbfaa176ac5d0.js",

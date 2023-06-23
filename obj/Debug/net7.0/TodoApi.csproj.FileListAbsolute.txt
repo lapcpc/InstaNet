@@ -282,3 +282,8 @@ C:\Users\Alex\Documents\Nueva carpeta\NET2\TodoApi\obj\Debug\net7.0\refint\TodoA
 C:\Users\Alex\Documents\Nueva carpeta\NET2\TodoApi\obj\Debug\net7.0\TodoApi.pdb
 C:\Users\Alex\Documents\Nueva carpeta\NET2\TodoApi\obj\Debug\net7.0\TodoApi.genruntimeconfig.cache
 C:\Users\Alex\Documents\Nueva carpeta\NET2\TodoApi\obj\Debug\net7.0\ref\TodoApi.dll
+C:\Users\Alex\Documents\Nueva carpeta\NET2\TodoApi\bin\Debug\net7.0\{}\web.config
+C:\Users\Alex\Documents\Nueva carpeta\NET2\TodoApi\bin\Debug\net7.0\{}\appsettings.Development.json
+C:\Users\Alex\Documents\Nueva carpeta\NET2\TodoApi\bin\Debug\net7.0\{}\appsettings.json
+C:\Users\Alex\Documents\Nueva carpeta\NET2\TodoApi\bin\Debug\net7.0\{}\TodoApi.deps.json
+C:\Users\Alex\Documents\Nueva carpeta\NET2\TodoApi\bin\Debug\net7.0\{}\TodoApi.runtimeconfig.json
